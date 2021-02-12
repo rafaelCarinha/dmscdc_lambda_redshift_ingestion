@@ -1,0 +1,1 @@
+# dmscdc_lambda_redshift_ingestion
